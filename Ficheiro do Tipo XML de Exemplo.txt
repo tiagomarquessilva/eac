@@ -1,0 +1,17 @@
+﻿<Grupo>
+	<Aluno>
+		<Nome>Hugo</Nome>
+		<Apelido>Neves</Apelido>
+		<NMEC>88167</NMEC>
+	</Aluno>
+	<Aluno>
+		<Nome>Joao</Nome>
+		<Apelido>Santos</Apelido>
+		<NMEC>88007</NMEC>
+	</Aluno>
+	<Aluno>
+		<Nome>Tiago</Nome>
+		<Apelido>Silva</Apelido>
+		<NMEC>87913</NMEC>
+	</Aluno>
+</Grupo>
